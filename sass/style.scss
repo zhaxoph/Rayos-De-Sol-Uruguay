@@ -348,6 +348,21 @@ h1, h2, h3, h4, h5, h6 {
 	#fh5co-logo {
 		float: left;
 		margin-left: -10px;
+		
+	#fh5co-logo {
+	float: left;
+	margin-left: -10px;
+	width: 100%;
+	height: auto;
+  
+	@media screen and (min-width: $screen-md){
+	width: auto;
+	}
+  img {
+	@media screen and (min-width: $screen-sm){
+	  width: 175px;
+	}
+  }
 	}	
 	#fh5co-main-nav {
 		float: right;
@@ -802,7 +817,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-footer {
 	clear: both;
-	borde-top: 1px solid #ccc;
+	
 	line-height: 1.5;
 	h3 {
 		font-size: 20px;
@@ -1247,4 +1262,5 @@ h1, h2, h3, h4, h5, h6 {
 			outline: none;
 		}
 	}	
+}
 }
