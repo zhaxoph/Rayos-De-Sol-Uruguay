@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 50%;
   margin-top: -6px;
   font-family: 'icomoon';
-  speak: none;
+
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -388,7 +388,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-header #fh5co-main-nav ul li.has-sub > div > a:after {
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -793,7 +792,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #fh5co-footer {
   clear: both;
-  borde-top: 1px solid #ccc;
+  border-top: 1px solid #ccc;
   line-height: 1.5;
 }
 #fh5co-footer h3 {
@@ -821,11 +820,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-footer .fh5co-copyright p {
   margin-bottom: 1px;
-  margin-left: 1px;
-  margin-right: 20px;
 }
 #fh5co-footer .fh5co-footer-widget {
-  margin-bottom: 40px;
+  
     text-align: center;
     
 }
@@ -896,7 +893,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 .ul_style_1 li:before {
   font-family: 'icomoon';
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
