@@ -810,10 +810,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 #fh5co-footer .fh5co-copyright {
   padding-top: 1rem;
-  padding-bottom: 1.2rem;
   padding-left: 2rem;
   padding-right: 2rem;
-  float: left;
+  float: center;
   width: 100%;
   border-top: 1px solid #e6e6e6;
   text-align: center;
